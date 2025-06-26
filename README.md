@@ -30,6 +30,10 @@ This program uses standard Linux/C++ libraries:
 - macOS (with slight modification)
 
 ---
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 ## 🧪 How to Compile
 
